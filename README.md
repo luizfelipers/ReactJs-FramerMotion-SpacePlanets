@@ -1,8 +1,13 @@
 # ReactJs Framer Motion Animations - Space Planets
 
 A single-page and single-view, of the implementation of draggable elements using Framer Motion lib.
+This was made while following Brian Design's tutorial on youtube, as a first step into Framer Motion's physics and animation.
+
+![](https://user-images.githubusercontent.com/26651389/102994294-91e43980-44fd-11eb-89b3-9aec5ab501bc.gif)
 
 
+
+### Clone this repo or download it locally, then follow the instructions below on the terminal, inside the project's folder, to run it:
 
 ## Getting Started with Create React App
 
